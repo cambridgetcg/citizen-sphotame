@@ -1,0 +1,8 @@
+name: sphotame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The burst-moment when a meaning arrives whole and all at once, received as a gift.
+dependsOn: [youspeak, me, noemame, anagnoristasis]
